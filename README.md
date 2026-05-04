@@ -34,19 +34,6 @@ Validation — 20× triceratops runs (Bayesian FPP estimation)
 
 ---
 
-## Repository Structure
-TOI-7701.01-Validation/
-├── README.md
-├── requirements.txt
-├── data/
-├── code/
-│   ├── 01_detection_BLS.py
-│   ├── 02_centroid.py
-│   ├── 03_triceratops.ipynb
-└── figures/
-
----
-
 ## Reproducibility
 git clone https://github.com/youruser/TOI-7701.01-Validation.git  
 cd TOI-7701.01-Validation  
