@@ -47,13 +47,19 @@ For triceratops, use a clean Python 3.10 environment. I recommend following step
 ## Notes
 - Based on TESS Sector 97  
 - No additional detrending applied (depth-sensitive regime)  
-- Photometric validation only — RV follow-up required  
+- Photometric validation only — RV follow-up required
 
 ---
 
-## Citation
+## 📄 Citation
+
+If you use this methodology or code, please cite the associated manuscript (currently in preparation for submission):
+
+```bibtex
 @article{escola2026toi7701,
-  title={Statistical Validation of TOI-7701.01},
-  author={Escolà Rodrigo, Biel},
+  title={A Statistically Validated Transiting Companion at the Giant Planet Boundary: TOI-7701.01},
+  author={Escolà-Rodrigo, Biel},
+  journal={In Preparation},
   year={2026}
 }
+```
