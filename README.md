@@ -63,3 +63,5 @@ If you use this methodology or code, please cite the associated manuscript (curr
   year={2026}
 }
 ```
+
+Note: This citation will be updated upon formal publication or arXiv submission.
