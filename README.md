@@ -40,7 +40,7 @@ cd TOI-7701.01-Validation
 pip install -r requirements.txt  
 python code/01_detection_BLS.py  
 
-For triceratops, use a clean Python 3.10 environment.
+For triceratops, use a clean Python 3.10 environment. I recommend following steps in the readme.md of https://github.com/JGB276/TRICERATOPS-plus/tree/main
 
 ---
 
