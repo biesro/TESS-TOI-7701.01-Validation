@@ -35,7 +35,7 @@ Validation — 20× triceratops runs (Bayesian FPP estimation)
 ---
 
 ## Reproducibility
-git clone https://github.com/youruser/TOI-7701.01-Validation.git  
+git clone https://github.com/biesro/TOI-7701.01-Validation.git  
 cd TOI-7701.01-Validation  
 pip install -r requirements.txt  
 python code/01_detection_BLS.py  
