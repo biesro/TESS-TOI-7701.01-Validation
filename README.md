@@ -19,11 +19,11 @@ We present the statistical validation of TOI-7701.01, a Saturn-sized transiting 
 ---
 
 ## Key Results
-- Period: 20.6116 days  
-- Transit depth: 1608 ppm  
-- Radius: ~7.7–8.2 R⊕  
-- SNR: ~30  
-- FPP: 0.00184  
+- Period: 20.613811 days  
+- Transit depth: 1767 ppm  
+- Radius: ~8–8.1 R⊕  
+- SNR: ~31.5  
+- FPP: 0.00446  
 - NFPP: 0  
 
 ---
