@@ -1,5 +1,4 @@
 """
-01.2_spatial_contamination_check_TOI7701.py
 =============================================================================
 SPATIAL CONTAMINATION ANALYSIS: MULTI-SECTOR WORST-CASE + GAIA DR3 KINEMATICS
 =============================================================================
