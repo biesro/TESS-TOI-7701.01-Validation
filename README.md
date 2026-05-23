@@ -14,16 +14,16 @@ Code repository for the paper:
 ---
 
 ## Abstract
-We present the statistical validation of TOI-7701.01, a Saturn-sized transiting companion candidate identified by TESS, using a photometric–astrometric pipeline and iterative Bayesian false positive probability analysis. The signal satisfies the validation criteria of Giacalone et al. (2021) (FPP = 0.00184, NFPP = 0), but its radius lies at the boundary between giant planets, brown dwarfs, and low-mass stars. We therefore classify it as a statistically validated transiting companion pending dynamical confirmation.
+We present the statistical validation of TOI-7701.01, a Saturn-sized transiting companion candidate identified by TESS, using a photometric–astrometric pipeline and iterative Bayesian false positive probability analysis. The signal satisfies the validation criteria of Giacalone et al. (2021) (FPP = 0.00243, NFPP = 0), but its radius lies at the boundary between giant planets, brown dwarfs, and low-mass stars. We therefore classify it as a statistically validated transiting companion pending dynamical confirmation.
 
 ---
 
 ## Key Results
-- Period: 20.613811 days  
-- Transit depth: 1767 ppm  
-- Radius: ~8–8.1 R⊕  
-- SNR: ~31.5  
-- FPP: 0.00446  
+- Period: 20.609766 days  
+- Transit depth: 1752 ppm  
+- Radius: ~7.9–8 R⊕  
+- SNR: ~35.1  
+- FPP: 0.00243  
 - NFPP: 0  
 
 ---
@@ -46,7 +46,7 @@ For triceratops, use a clean Python 3.10 environment. I recommend following step
 ---
 
 ## Notes
-- Based on TESS Sector 97  
+- Based on TESS Sector 3,4,30,97  
 - No additional detrending applied (depth-sensitive regime)  
 - Photometric validation only — RV follow-up required
 
