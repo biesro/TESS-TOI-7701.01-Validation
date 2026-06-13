@@ -61,11 +61,12 @@ If you use this methodology or code, please cite the associated manuscript (curr
 
 ```bibtex
 @article{escola2026toi7701,
-  title={A Statistically Validated Transiting Companion at the Giant Planet Boundary: TOI-7701.01},
+  title={Comprehensive Statistical Validation of TOI-7701.01: A Sub-Saturn Companion at the Giant Planet Boundary},
   author={Escolà-Rodrigo, Biel},
-  journal={In Preparation},
+  journal={arXiv preprint arXiv:XXXX.XXXX},
   year={2026}
+  url={...}
 }
 ```
 
-Note: This citation will be updated upon formal publication or arXiv submission.
+Note: This citation will be updated after submission on arXiv.
