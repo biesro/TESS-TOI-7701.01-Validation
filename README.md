@@ -14,7 +14,7 @@ Code repository for the paper:
 ---
 
 ## Abstract
-We present the statistical validation of TOI-7701.01, a Saturn-sized transiting companion candidate identified by TESS, using a photometric–astrometric pipeline and iterative Bayesian false positive probability analysis. The signal satisfies the validation criteria of Giacalone et al. (2021) (FPP = 0.00191, NFPP < 10**-6), but its radius lies at the boundary between giant planets, brown dwarfs, and low-mass stars. We therefore classify it as a statistically validated transiting companion pending dynamical confirmation.
+We present the statistical validation of TOI-7701.01, a Saturn-sized transiting companion candidate identified by TESS, using a photometric–astrometric pipeline and iterative Bayesian false positive probability analysis. The signal satisfies the validation criteria of Giacalone et al. (2021) (FPP = 0.00191, NFPP < 10−6), but its radius lies at the boundary between giant planets, brown dwarfs, and low-mass stars. We therefore classify it as a statistically validated transiting companion pending dynamical confirmation.
 
 ---
 
