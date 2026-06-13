@@ -40,7 +40,7 @@ We present the formal statistical validation of TOI-7701.01 (TIC 122522333), a s
 git clone https://github.com/biesro/TOI-7701.01-Validation.git  
 cd TOI-7701.01-Validation  
 pip install -r requirements.txt  
-python code/01_detection_BLS.py
+python code/detection_BLS_TOI7701_01.py
 ...
 ``` 
 
