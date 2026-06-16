@@ -63,9 +63,9 @@ If you use this methodology or code, please cite the associated manuscript (curr
 @article{escola2026toi7701,
   title={Comprehensive Statistical Validation of TOI-7701.01: A Sub-Saturn Companion at the Giant Planet Boundary},
   author={Escolà-Rodrigo, Biel},
-  journal={arXiv preprint arXiv:XXXX.XXXX},
+  journal={arXiv preprint arXiv:2606.15430 },
   year={2026}
-  url={...}
+  url={https://arxiv.org/abs/2606.15430}
 }
 ```
 
