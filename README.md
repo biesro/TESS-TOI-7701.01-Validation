@@ -68,5 +68,3 @@ If you use this methodology or code, please cite the associated manuscript (curr
   url={https://arxiv.org/abs/2606.15430}
 }
 ```
-
-Note: This citation will be updated after submission on arXiv.
